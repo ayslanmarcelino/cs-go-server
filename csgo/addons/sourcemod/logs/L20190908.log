@@ -1,0 +1,66 @@
+L 09/08/2019 - 10:03:02: SourceMod log file session started (file "L20190908.log") (Version "1.9.0.6281")
+L 09/08/2019 - 10:03:02: -------- Mapchange to de_mirage --------
+L 09/08/2019 - 10:03:02: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/08/2019 - 10:03:05: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 10:03:20: -------- Mapchange to de_mirage --------
+L 09/08/2019 - 10:03:21: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 10:03:21: [weapons.smx] SQLite DB connection successful
+L 09/08/2019 - 10:03:22: [weapons.smx] Inactive players' data has been deleted
+L 09/08/2019 - 10:14:03: [warmod.smx] "force_start" (player "Fly ^v^<4><STEAM_1:1:192015750><>")
+L 09/08/2019 - 10:14:58: [warmod.smx] "match_reset" (player "Fly ^v^<4><STEAM_1:1:192015750><>")
+L 09/08/2019 - 10:15:11: [warmod.smx] "force_start" (player "Fly ^v^<4><STEAM_1:1:192015750><>")
+L 09/08/2019 - 10:47:41: [warmod.smx] "force_start" (player "Fly ^v^<4><STEAM_1:1:192015750><>")
+L 09/08/2019 - 11:13:25: [warmod.smx] "force_start" (player "Fly ^v^<4><STEAM_1:1:192015750><>")
+L 09/08/2019 - 11:14:28: [warmod.smx] "match_reset" (player "Fly ^v^<4><STEAM_1:1:192015750><>")
+L 09/08/2019 - 11:17:03: [funcommands.smx] "Fly ^v^<4><STEAM_1:1:192015750><>" toggled noclip on "swoot<2><STEAM_1:1:104163866><>"
+L 09/08/2019 - 11:17:04: [funcommands.smx] "Fly ^v^<4><STEAM_1:1:192015750><>" toggled noclip on "Fly ^v^<4><STEAM_1:1:192015750><>"
+L 09/08/2019 - 11:18:48: [warmod.smx] "force_start" (player "Fly ^v^<4><STEAM_1:1:192015750><>")
+L 09/08/2019 - 11:55:46: [basevotes.smx] "Fly ^v^<4><STEAM_1:1:192015750><>" initiated a map vote.
+L 09/08/2019 - 11:56:07: [basevotes.smx] Changing map to de_dust2 due to vote.
+L 09/08/2019 - 11:56:12: [SM] Changed map to "de_dust2"
+L 09/08/2019 - 11:56:17: -------- Mapchange to de_dust2 --------
+L 09/08/2019 - 11:56:19: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 11:56:20: [weapons.smx] Inactive players' data has been deleted
+L 09/08/2019 - 12:00:05: [warmod.smx] "force_start" (player "Pingo<10><STEAM_1:0:192741652><>")
+L 09/08/2019 - 12:29:19: [basecommands.smx] "Fly ^v^<4><STEAM_1:1:192015750><>" kicked "Davigameplays do bhop<16><STEAM_1:1:512925636><>" (reason "")
+L 09/08/2019 - 12:30:09: [SM] Changed map to "de_dust"
+L 09/08/2019 - 12:30:15: -------- Mapchange to de_dust2 --------
+L 09/08/2019 - 12:30:17: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 12:30:17: [weapons.smx] Inactive players' data has been deleted
+L 09/08/2019 - 13:59:54: -------- Mapchange to de_dust2 --------
+L 09/08/2019 - 13:59:58: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 13:59:59: [weapons.smx] Inactive players' data has been deleted
+L 09/08/2019 - 14:56:05: -------- Mapchange to de_dust2 --------
+L 09/08/2019 - 14:56:11: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 14:56:12: [weapons.smx] Inactive players' data has been deleted
+L 09/08/2019 - 15:46:17: -------- Mapchange to de_dust2 --------
+L 09/08/2019 - 15:46:20: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 15:46:21: [weapons.smx] Inactive players' data has been deleted
+L 09/08/2019 - 16:59:27: -------- Mapchange to de_dust2 --------
+L 09/08/2019 - 16:59:29: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 16:59:30: [weapons.smx] Inactive players' data has been deleted
+L 09/08/2019 - 17:01:53: -------- Mapchange to de_dust2 --------
+L 09/08/2019 - 17:01:54: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 17:01:54: [weapons.smx] Inactive players' data has been deleted
+L 09/08/2019 - 18:43:24: [funcommands.smx] "Fly ^v^<26><STEAM_1:1:192015750><>" ignited "MTH<27><STEAM_1:0:206737657><>" (seconds "20.000000")
+L 09/08/2019 - 18:43:51: [basecommands.smx] "Fly ^v^<26><STEAM_1:1:192015750><>" changed map to "de_mirage"
+L 09/08/2019 - 18:43:54: [SM] Changed map to "de_mirage"
+L 09/08/2019 - 18:43:56: -------- Mapchange to de_mirage --------
+L 09/08/2019 - 18:43:59: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 18:44:01: [weapons.smx] Inactive players' data has been deleted
+L 09/08/2019 - 18:45:12: [warmod.smx] "force__all_spec" (player "Fly ^v^<26><STEAM_1:1:192015750><>")
+L 09/08/2019 - 18:45:36: [warmod.smx] "force_start" (player "Fly ^v^<26><STEAM_1:1:192015750><>")
+L 09/08/2019 - 19:09:11: [warmod.smx] "force__all_spec" (player "Fly ^v^<26><STEAM_1:1:192015750><>")
+L 09/08/2019 - 19:09:43: [basecommands.smx] "Fly ^v^<26><STEAM_1:1:192015750><>" kicked "bocoio<32><STEAM_1:0:443603258><>" (reason "")
+L 09/08/2019 - 19:09:46: [basecommands.smx] "Fly ^v^<26><STEAM_1:1:192015750><>" kicked "fredeus2004<33><STEAM_1:0:508022201><>" (reason "")
+L 09/08/2019 - 19:09:57: [basecommands.smx] "Fly ^v^<26><STEAM_1:1:192015750><>" kicked "chup69<34><STEAM_1:1:445923689><>" (reason "")
+L 09/08/2019 - 19:09:57: [basecommands.smx] "Fly ^v^<26><STEAM_1:1:192015750><>" kicked "bocoio<35><STEAM_1:0:443603258><>" (reason "")
+L 09/08/2019 - 19:10:17: [warmod.smx] "force_start" (player "Fly ^v^<26><STEAM_1:1:192015750><>")
+L 09/08/2019 - 19:12:32: [basecommands.smx] "Fly ^v^<26><STEAM_1:1:192015750><>" kicked "Delta<36><STEAM_1:0:188983607><>" (reason "")
+L 09/08/2019 - 19:35:12: [SM] Changed map to "de_dust"
+L 09/08/2019 - 19:35:15: -------- Mapchange to de_dust2 --------
+L 09/08/2019 - 19:35:18: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 19:35:19: [weapons.smx] Inactive players' data has been deleted
+L 09/08/2019 - 23:09:00: -------- Mapchange to de_dust2 --------
+L 09/08/2019 - 23:09:03: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/08/2019 - 23:09:03: [weapons.smx] Inactive players' data has been deleted

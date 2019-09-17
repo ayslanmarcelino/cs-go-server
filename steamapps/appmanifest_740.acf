@@ -1,0 +1,37 @@
+"AppState"
+{
+	"appid"		"740"
+	"Universe"		"1"
+	"name"		"Counter-Strike Global Offensive - Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"Counter-Strike Global Offensive Beta - Dedicated Server"
+	"LastUpdated"		"1566302212"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"21252112905"
+	"buildid"		"4120557"
+	"LastOwner"		"76561199403583495"
+	"BytesToDownload"		"9719205024"
+	"BytesDownloaded"		"9719205024"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"731"
+		{
+			"manifest"		"703576417770357862"
+		}
+		"740"
+		{
+			"manifest"		"2884121297741641887"
+		}
+	}
+	"MountedDepots"
+	{
+		"731"		"703576417770357862"
+		"740"		"2884121297741641887"
+	}
+	"UserConfig"
+	{
+	}
+}

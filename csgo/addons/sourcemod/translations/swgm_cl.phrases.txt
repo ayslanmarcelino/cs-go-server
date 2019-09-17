@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"JoinSteam"
+	{
+		"en"		"[SWGM] First join our Steam group!"
+		"pt"		"[SWGM] Primeiro entre em nosso grupo da Steam! https://steamcommunity.com/groups/viciosgamingbr"
+		"ru"		"[SWGM] Сначала вступите в нашу Steam группу!"
+		"fr"		"[SWGM] En premier, rejoignez notre groupe Steam!"
+		"hu"		"[SWGM] Először csatlakozz a Steam-es csoportunkhoz!"
+	}
+}

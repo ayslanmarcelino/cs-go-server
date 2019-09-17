@@ -1,0 +1,2 @@
+#!/bin/bash
+./srcds_run -game csgo -console -usercon +map "de_mirage" +tv_port 28093 +mapgroup "mg_active" -net_port_try 1  -strictportbind +ip 177.54.157.164 -port 27093 -maxplayers_override 12 +sv_minrate 5000 -pidfile ogp_game_startup.pid +sv_server_graphic1 "hz.png" +mat_queue_mode "2" +mp_spectators_max "1" +sv_setsteamaccount "C74F2E5FBB59060534BE25D87FE38CAA" +game_type "0" +game_mode "1" -nohltv -norestart -nobots -tickrate 128

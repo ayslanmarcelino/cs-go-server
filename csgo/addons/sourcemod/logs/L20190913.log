@@ -1,0 +1,46 @@
+L 09/13/2019 - 14:22:10: SourceMod log file session started (file "L20190913.log") (Version "1.9.0.6281")
+L 09/13/2019 - 14:22:10: -------- Mapchange to de_mirage --------
+L 09/13/2019 - 14:22:12: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/13/2019 - 14:22:13: [weapons.smx] Inactive players' data has been deleted
+L 09/13/2019 - 16:31:16: -------- Mapchange to de_mirage --------
+L 09/13/2019 - 16:31:17: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/13/2019 - 16:31:17: [weapons.smx] Inactive players' data has been deleted
+L 09/13/2019 - 18:15:38: -------- Mapchange to de_mirage --------
+L 09/13/2019 - 18:15:39: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/13/2019 - 18:15:40: [weapons.smx] Inactive players' data has been deleted
+L 09/13/2019 - 18:17:31: [basecommands.smx] "Fly ^v^<17><STEAM_1:1:192015750><>" changed map to "de_train"
+L 09/13/2019 - 18:17:34: [SM] Changed map to "de_train"
+L 09/13/2019 - 18:17:34: -------- Mapchange to de_train --------
+L 09/13/2019 - 18:17:35: [warmod.smx] Current Map: de_train, Warmod Version: 18.05.24.0924
+L 09/13/2019 - 18:17:36: [weapons.smx] Inactive players' data has been deleted
+L 09/13/2019 - 18:23:57: [warmod.smx] "force_start" (player "Fly ^v^<17><STEAM_1:1:192015750><>")
+L 09/13/2019 - 18:35:42: [warmod.smx] "match_reset" (player "Fly ^v^<17><STEAM_1:1:192015750><>")
+L 09/13/2019 - 18:40:27: [warmod.smx] "force_start" (player "Fly ^v^<17><STEAM_1:1:192015750><>")
+L 09/13/2019 - 19:06:08: [basecommands.smx] "Fly ^v^<17><STEAM_1:1:192015750><>" kicked "o Blessed^^<23><STEAM_1:0:426301300><>" (reason "")
+L 09/13/2019 - 19:13:46: [warmod.smx] "half_reset" (player "Fly ^v^<17><STEAM_1:1:192015750><>")
+L 09/13/2019 - 19:14:23: [warmod.smx] "force_start" (player "Fly ^v^<17><STEAM_1:1:192015750><>")
+L 09/13/2019 - 19:24:49: [warmod.smx] "active_toggle" (player "Fly ^v^<29><STEAM_1:1:192015750><>")
+L 09/13/2019 - 19:25:18: [basecommands.smx] "Fly ^v^<29><STEAM_1:1:192015750><>" changed map to "de_train"
+L 09/13/2019 - 19:25:21: [SM] Changed map to "de_train"
+L 09/13/2019 - 19:25:21: -------- Mapchange to de_train --------
+L 09/13/2019 - 19:25:23: [warmod.smx] Current Map: de_train, Warmod Version: 18.05.24.0924
+L 09/13/2019 - 19:25:23: [weapons.smx] Inactive players' data has been deleted
+L 09/13/2019 - 19:34:33: [basecommands.smx] "Fly ^v^<29><STEAM_1:1:192015750><>" changed map to "de_mirage"
+L 09/13/2019 - 19:34:36: [SM] Changed map to "de_mirage"
+L 09/13/2019 - 19:34:36: -------- Mapchange to de_mirage --------
+L 09/13/2019 - 19:34:38: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/13/2019 - 19:34:38: [weapons.smx] Inactive players' data has been deleted
+L 09/13/2019 - 19:42:59: [basebans.smx] "Fly ^v^<29><STEAM_1:1:192015750><>" banned "Meliodas alecrim<27><STEAM_1:1:486081183><>" (minutes "0") (reason "Aimbot")
+L 09/13/2019 - 19:53:33: [warmod.smx] "force_start" (player "Fly ^v^<29><STEAM_1:1:192015750><>")
+L 09/13/2019 - 20:21:38: -------- Mapchange to de_mirage --------
+L 09/13/2019 - 20:21:39: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/13/2019 - 20:21:39: [weapons.smx] Inactive players' data has been deleted
+L 09/13/2019 - 21:19:58: -------- Mapchange to de_mirage --------
+L 09/13/2019 - 21:20:00: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/13/2019 - 21:20:00: [weapons.smx] Inactive players' data has been deleted
+L 09/13/2019 - 22:00:04: -------- Mapchange to de_mirage --------
+L 09/13/2019 - 22:00:05: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/13/2019 - 22:00:05: [weapons.smx] Inactive players' data has been deleted
+L 09/13/2019 - 22:26:50: -------- Mapchange to de_mirage --------
+L 09/13/2019 - 22:26:51: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/13/2019 - 22:26:52: [weapons.smx] Inactive players' data has been deleted

@@ -1,0 +1,103 @@
+L 09/01/2019 - 03:34:11: SourceMod log file session started (file "L20190901.log") (Version "1.9.0.6281")
+L 09/01/2019 - 03:34:11: -------- Mapchange to de_dust2 --------
+L 09/01/2019 - 03:34:13: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 03:34:14: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 09:07:57: -------- Mapchange to de_dust2 --------
+L 09/01/2019 - 09:07:58: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 09:07:59: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 09:37:46: -------- Mapchange to de_dust2 --------
+L 09/01/2019 - 09:37:48: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 09:37:48: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 10:01:01: -------- Mapchange to de_dust2 --------
+L 09/01/2019 - 10:01:02: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 10:01:02: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 12:47:02: -------- Mapchange to de_dust2 --------
+L 09/01/2019 - 12:47:04: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 12:47:05: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 12:50:09: -------- Mapchange to de_dust2 --------
+L 09/01/2019 - 12:50:11: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 12:50:11: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 13:01:24: [basecommands.smx] "Fly ^v^<33><STEAM_1:1:192015750><>" changed map to "de_mirage"
+L 09/01/2019 - 13:01:27: [SM] Changed map to "de_mirage"
+L 09/01/2019 - 13:01:31: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 13:01:33: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 13:01:33: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 13:03:55: [warmod.smx] "force_start" (player "Fly ^v^<33><STEAM_1:1:192015750><>")
+L 09/01/2019 - 13:04:07: [warmod.smx] "match_reset" (player "Fly ^v^<33><STEAM_1:1:192015750><>")
+L 09/01/2019 - 13:04:29: [warmod.smx] "force_start" (player "Fly ^v^<33><STEAM_1:1:192015750><>")
+L 09/01/2019 - 13:29:06: [SM] Changed map to "de_dust"
+L 09/01/2019 - 13:29:18: -------- Mapchange to de_dust2 --------
+L 09/01/2019 - 13:29:20: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 13:29:21: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 14:16:11: -------- Mapchange to de_dust2 --------
+L 09/01/2019 - 14:16:14: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 14:16:15: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 14:54:27: [basebans.smx] "Fly ^v^<39><STEAM_1:1:192015750><>" banned "FAKE<41><STEAM_1:0:74438771><>" (minutes "10080") (reason "Admin disrespect")
+L 09/01/2019 - 14:58:11: [basecommands.smx] "Fly ^v^<39><STEAM_1:1:192015750><>" changed map to "de_lake"
+L 09/01/2019 - 14:58:14: [SM] Changed map to "de_lake"
+L 09/01/2019 - 14:58:16: -------- Mapchange to de_lake --------
+L 09/01/2019 - 14:58:19: [warmod.smx] Current Map: de_lake, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 14:58:20: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 14:58:58: [basecommands.smx] "Fly ^v^<39><STEAM_1:1:192015750><>" changed map to "de_mirage"
+L 09/01/2019 - 14:59:01: [SM] Changed map to "de_mirage"
+L 09/01/2019 - 14:59:04: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 14:59:06: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 14:59:07: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 15:02:43: SourceMod log file session started (file "L20190901.log") (Version "1.9.0.6281")
+L 09/01/2019 - 15:02:43: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 15:02:43: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/01/2019 - 15:02:46: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 15:03:27: SourceMod log file session started (file "L20190901.log") (Version "1.9.0.6281")
+L 09/01/2019 - 15:03:27: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 15:03:28: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/01/2019 - 15:03:29: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 15:03:47: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 15:03:49: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 15:03:49: [weapons.smx] SQLite DB connection successful
+L 09/01/2019 - 15:03:49: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 15:08:15: [warmod.smx] "knife_on_3" (player "eu n sou homi<3><STEAM_1:0:192741652><>")
+L 09/01/2019 - 15:08:51: [warmod.smx] "match_reset" (player "Fly ^v^<2><STEAM_1:1:192015750><>")
+L 09/01/2019 - 15:09:28: [warmod.smx] "active_toggle" (player "eu n sou homi<3><STEAM_1:0:192741652><>")
+L 09/01/2019 - 15:09:44: [warmod.smx] "active_toggle" (player "Fly ^v^<2><STEAM_1:1:192015750><>")
+L 09/01/2019 - 15:09:53: [basecommands.smx] "eu n sou homi<3><STEAM_1:0:192741652><>" changed map to "de_mirage"
+L 09/01/2019 - 15:09:55: [warmod.smx] "ready_toggle" (player "Fly ^v^<2><STEAM_1:1:192015750><>")
+L 09/01/2019 - 15:09:56: [SM] Changed map to "de_mirage"
+L 09/01/2019 - 15:09:58: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 15:10:01: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 15:10:02: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 15:14:16: [warmod.smx] "force_start" (player "Fly ^v^<2><STEAM_1:1:192015750><>")
+L 09/01/2019 - 15:24:49: [basecommands.smx] "eu n sou homi<3><STEAM_1:0:192741652><>" refreshed the admin cache.
+L 09/01/2019 - 15:41:10: [basecommands.smx] "eu n sou homi<3><STEAM_1:0:192741652><>" changed map to "de_mirage"
+L 09/01/2019 - 15:41:13: [SM] Changed map to "de_mirage"
+L 09/01/2019 - 15:41:16: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 15:41:18: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 15:41:19: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 15:43:03: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2019 - 15:45:23: [basecommands.smx] "Hᴏғᴍᴀɴɴ<13><STEAM_1:1:198763645><>" refreshed the admin cache.
+L 09/01/2019 - 15:45:29: [warmod.smx] "knife_on_3" (player "Hᴏғᴍᴀɴɴ<13><STEAM_1:1:198763645><>")
+L 09/01/2019 - 15:45:54: [basecommands.smx] "eu n sou homi<3><STEAM_1:0:192741652><>" changed map to "de_mirage"
+L 09/01/2019 - 15:45:57: [SM] Changed map to "de_mirage"
+L 09/01/2019 - 15:45:58: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 15:45:59: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 15:46:00: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 15:46:37: [warmod.smx] "knife_on_3" (player "eu n sou homi<3><STEAM_1:0:192741652><>")
+L 09/01/2019 - 15:46:54: [basecommands.smx] "eu n sou homi<3><STEAM_1:0:192741652><>" changed map to "de_mirage"
+L 09/01/2019 - 15:46:57: [SM] Changed map to "de_mirage"
+L 09/01/2019 - 15:46:58: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 15:46:59: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 15:47:00: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 16:16:36: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 16:16:39: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 16:16:39: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 17:08:38: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 17:08:41: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 17:08:41: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 19:02:51: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 19:02:53: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 19:02:54: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 19:05:40: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 19:05:41: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 19:05:41: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2019 - 19:49:38: -------- Mapchange to de_mirage --------
+L 09/01/2019 - 19:49:40: [warmod.smx] Current Map: de_mirage, Warmod Version: 18.05.24.0924
+L 09/01/2019 - 19:49:40: [weapons.smx] Inactive players' data has been deleted

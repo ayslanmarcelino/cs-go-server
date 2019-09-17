@@ -1,0 +1,44 @@
+L 09/11/2019 - 09:57:56: SourceMod error session started
+L 09/11/2019 - 09:57:56: Info (map "de_mirage") (file "errors_20190911.log")
+L 09/11/2019 - 09:57:56: [SM] Exception reported: [SA3] 'PT,EN' translation missing in message "1"
+L 09/11/2019 - 09:57:56: [SM] Blaming: ServerAdvertisements3.smx
+L 09/11/2019 - 09:57:56: [SM] Call stack trace:
+L 09/11/2019 - 09:57:56: [SM]   [0] SetFailState
+L 09/11/2019 - 09:57:56: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 09/11/2019 - 09:57:56: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 09/11/2019 - 09:57:56: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 09/11/2019 - 09:57:56: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 09/11/2019 - 10:01:23: Error log file session closed.
+L 09/11/2019 - 10:01:24: SourceMod error session started
+L 09/11/2019 - 10:01:24: Info (map "de_mirage") (file "errors_20190911.log")
+L 09/11/2019 - 10:01:24: [SM] Exception reported: [SA3] 'PT,EN' translation missing in message "1"
+L 09/11/2019 - 10:01:24: [SM] Blaming: ServerAdvertisements3.smx
+L 09/11/2019 - 10:01:24: [SM] Call stack trace:
+L 09/11/2019 - 10:01:24: [SM]   [0] SetFailState
+L 09/11/2019 - 10:01:24: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 09/11/2019 - 10:01:24: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 09/11/2019 - 10:01:24: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 09/11/2019 - 10:01:24: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 09/11/2019 - 10:02:14: Error log file session closed.
+L 09/11/2019 - 10:02:15: SourceMod error session started
+L 09/11/2019 - 10:02:15: Info (map "de_mirage") (file "errors_20190911.log")
+L 09/11/2019 - 10:02:15: [SM] Exception reported: [SA3] 'PT' translation missing in message "1"
+L 09/11/2019 - 10:02:15: [SM] Blaming: ServerAdvertisements3.smx
+L 09/11/2019 - 10:02:15: [SM] Call stack trace:
+L 09/11/2019 - 10:02:15: [SM]   [0] SetFailState
+L 09/11/2019 - 10:02:15: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 09/11/2019 - 10:02:15: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 09/11/2019 - 10:02:15: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 09/11/2019 - 10:02:15: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 09/11/2019 - 10:03:40: Error log file session closed.
+L 09/11/2019 - 10:03:41: SourceMod error session started
+L 09/11/2019 - 10:03:41: Info (map "de_mirage") (file "errors_20190911.log")
+L 09/11/2019 - 10:03:41: [SM] Exception reported: [SA3] 'PT' translation missing in message "1"
+L 09/11/2019 - 10:03:41: [SM] Blaming: ServerAdvertisements3.smx
+L 09/11/2019 - 10:03:41: [SM] Call stack trace:
+L 09/11/2019 - 10:03:41: [SM]   [0] SetFailState
+L 09/11/2019 - 10:03:41: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 09/11/2019 - 10:03:41: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 09/11/2019 - 10:03:41: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 09/11/2019 - 10:03:41: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 09/11/2019 - 10:12:03: Error log file session closed.

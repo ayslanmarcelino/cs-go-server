@@ -1,0 +1,37 @@
+L 08/21/2019 - 12:44:16: SourceMod log file session started (file "L20190821.log") (Version "1.9.0.6281")
+L 08/21/2019 - 12:44:16: Log file closed.
+L 08/21/2019 - 12:44:46: SourceMod log file session started (file "L20190821.log") (Version "1.9.0.6281")
+L 08/21/2019 - 12:44:46: -------- Mapchange to de_dust2 --------
+L 08/21/2019 - 12:44:48: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/21/2019 - 12:45:01: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/21/2019 - 12:52:04: -------- Mapchange to de_dust2 --------
+L 08/21/2019 - 12:52:06: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/21/2019 - 12:53:41: [warmod.smx] "force_all_ready" (player "Fly ^v^<3><STEAM_1:1:192015750><>")
+L 08/21/2019 - 12:54:02: [warmod.smx] "knife_on_3" (player "Fly ^v^<3><STEAM_1:1:192015750><>")
+L 08/21/2019 - 13:02:45: Log file closed.
+L 08/21/2019 - 13:02:56: SourceMod log file session started (file "L20190821.log") (Version "1.9.0.6281")
+L 08/21/2019 - 13:02:56: -------- Mapchange to de_dust2 --------
+L 08/21/2019 - 13:02:57: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/21/2019 - 13:03:00: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/21/2019 - 13:03:17: -------- Mapchange to de_dust2 --------
+L 08/21/2019 - 13:03:19: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/21/2019 - 13:05:38: Log file closed.
+L 08/21/2019 - 13:07:16: SourceMod log file session started (file "L20190821.log") (Version "1.9.0.6281")
+L 08/21/2019 - 13:07:16: -------- Mapchange to de_dust2 --------
+L 08/21/2019 - 13:07:17: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/21/2019 - 13:07:19: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/21/2019 - 13:17:06: -------- Mapchange to de_dust2 --------
+L 08/21/2019 - 13:17:08: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/21/2019 - 13:17:09: [weapons.smx] SQLite DB connection successful
+L 08/21/2019 - 13:17:09: [weapons.smx] Inactive players' data has been deleted
+L 08/21/2019 - 13:19:01: [warmod.smx] "knife_on_3" (player "Fly ^v^<2><STEAM_1:1:192015750><>")
+L 08/21/2019 - 13:19:14: [warmod.smx] "knife_on_3" (player "Fly ^v^<2><STEAM_1:1:192015750><>")
+L 08/21/2019 - 13:20:38: [warmod.smx] "match_reset" (player "Fly ^v^<2><STEAM_1:1:192015750><>")
+L 08/21/2019 - 13:21:42: [warmod.smx] "knife_on_3" (player "Fly ^v^<2><STEAM_1:1:192015750><>")
+L 08/21/2019 - 13:22:16: [warmod.smx] "knife_on_3" (player "Fly ^v^<2><STEAM_1:1:192015750><>")
+L 08/21/2019 - 15:32:48: -------- Mapchange to de_dust2 --------
+L 08/21/2019 - 15:32:50: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/21/2019 - 15:32:50: [weapons.smx] Inactive players' data has been deleted
+L 08/21/2019 - 16:58:38: -------- Mapchange to de_dust2 --------
+L 08/21/2019 - 16:58:40: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/21/2019 - 16:58:40: [weapons.smx] Inactive players' data has been deleted

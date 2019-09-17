@@ -1,0 +1,42 @@
+L 08/21/2019 - 12:45:01: SourceMod error session started
+L 08/21/2019 - 12:45:01: Info (map "de_dust2") (file "errors_20190821.log")
+L 08/21/2019 - 12:45:01: [warmod.smx] [SM] Unable to read directory: 'resource/flash/econ/tournaments/teams'
+L 08/21/2019 - 12:52:04: Error log file session closed.
+L 08/21/2019 - 13:20:43: SourceMod error session started
+L 08/21/2019 - 13:20:43: Info (map "de_dust2") (file "errors_20190821.log")
+L 08/21/2019 - 13:20:43: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 08/21/2019 - 15:32:48: Error log file session closed.
+L 08/21/2019 - 16:58:38: SourceMod error session started
+L 08/21/2019 - 16:58:38: Info (map "de_dust2") (file "errors_20190821.log")
+L 08/21/2019 - 16:58:38: [SM] Fatal error encountered parsing translation file "gloves.phrases.txt"
+L 08/21/2019 - 16:58:38: [SM] Error (line 0, column 0): Stream failed to open
+L 08/21/2019 - 16:58:40: [SM] Exception reported: Language phrase "GloveMenuTitle" not found (arg 5)
+L 08/21/2019 - 16:58:40: [SM] Blaming: gloves.smx
+L 08/21/2019 - 16:58:40: [SM] Call stack trace:
+L 08/21/2019 - 16:58:40: [SM]   [0] Menu.SetTitle
+L 08/21/2019 - 16:58:40: [SM]   [1] Line 57, gloves/config.sp::ReadConfig
+L 08/21/2019 - 16:58:40: [SM]   [2] Line 86, gloves.sp::OnConfigsExecuted
+L 08/21/2019 - 17:00:28: [SM] Exception reported: Language phrase "GloveMenuTitle" not found (arg 5)
+L 08/21/2019 - 17:00:28: [SM] Blaming: gloves.smx
+L 08/21/2019 - 17:00:28: [SM] Call stack trace:
+L 08/21/2019 - 17:00:28: [SM]   [0] Menu.SetTitle
+L 08/21/2019 - 17:00:28: [SM]   [1] Line 381, gloves/menus.sp::CreateMainMenu
+L 08/21/2019 - 17:00:28: [SM]   [2] Line 93, gloves.sp::CommandGlove
+L 08/21/2019 - 17:01:07: [SM] Exception reported: Language phrase "GloveMenuTitle" not found (arg 5)
+L 08/21/2019 - 17:01:07: [SM] Blaming: gloves.smx
+L 08/21/2019 - 17:01:07: [SM] Call stack trace:
+L 08/21/2019 - 17:01:07: [SM]   [0] Menu.SetTitle
+L 08/21/2019 - 17:01:07: [SM]   [1] Line 381, gloves/menus.sp::CreateMainMenu
+L 08/21/2019 - 17:01:07: [SM]   [2] Line 93, gloves.sp::CommandGlove
+L 08/21/2019 - 17:01:24: [SM] Exception reported: Language phrase "GloveMenuTitle" not found (arg 5)
+L 08/21/2019 - 17:01:24: [SM] Blaming: gloves.smx
+L 08/21/2019 - 17:01:24: [SM] Call stack trace:
+L 08/21/2019 - 17:01:24: [SM]   [0] Menu.SetTitle
+L 08/21/2019 - 17:01:24: [SM]   [1] Line 381, gloves/menus.sp::CreateMainMenu
+L 08/21/2019 - 17:01:24: [SM]   [2] Line 93, gloves.sp::CommandGlove
+L 08/21/2019 - 17:01:37: [SM] Exception reported: Language phrase "GloveMenuTitle" not found (arg 5)
+L 08/21/2019 - 17:01:37: [SM] Blaming: gloves.smx
+L 08/21/2019 - 17:01:37: [SM] Call stack trace:
+L 08/21/2019 - 17:01:37: [SM]   [0] Menu.SetTitle
+L 08/21/2019 - 17:01:37: [SM]   [1] Line 381, gloves/menus.sp::CreateMainMenu
+L 08/21/2019 - 17:01:37: [SM]   [2] Line 93, gloves.sp::CommandGlove

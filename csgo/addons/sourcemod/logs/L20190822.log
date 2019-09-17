@@ -1,0 +1,45 @@
+L 08/22/2019 - 13:53:41: SourceMod log file session started (file "L20190822.log") (Version "1.9.0.6281")
+L 08/22/2019 - 13:53:41: -------- Mapchange to de_dust2 --------
+L 08/22/2019 - 13:53:43: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/22/2019 - 13:53:59: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 13:54:17: SourceMod log file session started (file "L20190822.log") (Version "1.9.0.6281")
+L 08/22/2019 - 13:54:17: -------- Mapchange to de_dust2 --------
+L 08/22/2019 - 13:54:18: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/22/2019 - 13:54:20: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 13:55:14: -------- Mapchange to de_dust2 --------
+L 08/22/2019 - 13:55:16: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 13:55:17: [weapons.smx] SQLite DB connection successful
+L 08/22/2019 - 13:55:17: [weapons.smx] Inactive players' data has been deleted
+L 08/22/2019 - 14:04:51: [warmod.smx] "force_all_ready" (player "Fly ^v^<3><STEAM_1:1:192015750><>")
+L 08/22/2019 - 14:05:06: [warmod.smx] "force_start" (player "Fly ^v^<3><STEAM_1:1:192015750><>")
+L 08/22/2019 - 14:10:04: SourceMod log file session started (file "L20190822.log") (Version "1.9.0.6281")
+L 08/22/2019 - 14:10:04: -------- Mapchange to de_dust2 --------
+L 08/22/2019 - 14:10:04: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 08/22/2019 - 14:10:06: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 14:11:28: -------- Mapchange to de_dust2 --------
+L 08/22/2019 - 14:11:29: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 14:11:30: [weapons.smx] SQLite DB connection successful
+L 08/22/2019 - 14:11:30: [weapons.smx] Inactive players' data has been deleted
+L 08/22/2019 - 15:26:16: -------- Mapchange to de_dust2 --------
+L 08/22/2019 - 15:26:18: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 15:26:19: [weapons.smx] Inactive players' data has been deleted
+L 08/22/2019 - 15:26:55: -------- Mapchange to de_dust2 --------
+L 08/22/2019 - 15:26:57: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 15:26:57: [weapons.smx] Inactive players' data has been deleted
+L 08/22/2019 - 15:27:24: -------- Mapchange to de_dust2 --------
+L 08/22/2019 - 15:27:25: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 15:27:26: [weapons.smx] Inactive players' data has been deleted
+L 08/22/2019 - 15:30:43: -------- Mapchange to de_dust2 --------
+L 08/22/2019 - 15:30:45: [warmod.smx] Current Map: de_dust2, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 15:30:45: [weapons.smx] Inactive players' data has been deleted
+L 08/22/2019 - 15:32:23: [basecommands.smx] "Fly ^v^<13><STEAM_1:1:192015750><>" changed map to "de_seaside"
+L 08/22/2019 - 15:32:26: [SM] Changed map to "de_seaside"
+L 08/22/2019 - 15:32:33: -------- Mapchange to de_seaside --------
+L 08/22/2019 - 15:32:36: [warmod.smx] Current Map: de_seaside, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 15:32:36: [weapons.smx] Inactive players' data has been deleted
+L 08/22/2019 - 18:08:38: -------- Mapchange to de_seaside --------
+L 08/22/2019 - 18:08:40: [warmod.smx] Current Map: de_seaside, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 18:08:40: [weapons.smx] Inactive players' data has been deleted
+L 08/22/2019 - 18:13:17: -------- Mapchange to de_seaside --------
+L 08/22/2019 - 18:13:19: [warmod.smx] Current Map: de_seaside, Warmod Version: 18.05.24.0924
+L 08/22/2019 - 18:13:19: [weapons.smx] Inactive players' data has been deleted

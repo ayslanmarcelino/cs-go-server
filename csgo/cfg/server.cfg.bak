@@ -1,0 +1,60 @@
+
+rcon_password "P6534360"
+hostname "VÍCIOS GAMING [!knife] [!ws] [!glove] @ HOSTZONE.COM.BR"
+sv_region 2
+sv_region 2
+sv_minrate 5000
+sv_hibernate_when_empty 1
+sv_mincmdrate 64
+sv_minupdaterate 64
+host_info_show 2
+host_players_show 2
+sv_allowdownload 0
+sv_allowupload 0
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_downloadurl "http://fastdl.hostzone.com.br/177_54_157_164/27093"
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+sv_region 2
+
+sm_advertisements_enabled 1
+sm_advertisements_file "advertisements.txt"
+sm_advertisements_interval 300
+sv_region 2
+sv_tags hostzone, Hostzone, brasil, csgo, competitivo, casual, sourcemod, antiddos

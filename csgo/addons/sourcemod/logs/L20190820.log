@@ -1,0 +1,21 @@
+L 08/20/2019 - 19:18:44: SourceMod log file session started (file "L20190820.log") (Version "1.9.0.6281")
+L 08/20/2019 - 19:18:44: -------- Mapchange to de_dust2 --------
+L 08/20/2019 - 19:18:59: -------- Mapchange to de_dust2 --------
+L 08/20/2019 - 19:33:46: -------- Mapchange to de_dust2 --------
+L 08/20/2019 - 19:37:54: Log file closed.
+L 08/20/2019 - 19:38:12: SourceMod log file session started (file "L20190820.log") (Version "1.9.0.6281")
+L 08/20/2019 - 19:38:12: -------- Mapchange to de_dust2 --------
+L 08/20/2019 - 19:39:11: -------- Mapchange to de_dust2 --------
+L 08/20/2019 - 19:39:43: [basecommands.smx] "Fly ^v^<2><STEAM_1:1:192015750><>" refreshed the admin cache.
+L 08/20/2019 - 19:44:02: [basecommands.smx] "Fly ^v^<2><STEAM_1:1:192015750><>" refreshed the admin cache.
+L 08/20/2019 - 19:44:07: [basecommands.smx] "Fly ^v^<2><STEAM_1:1:192015750><>" refreshed the admin cache.
+L 08/20/2019 - 19:45:52: -------- Mapchange to de_dust2 --------
+L 08/20/2019 - 19:51:11: -------- Mapchange to de_dust2 --------
+L 08/20/2019 - 19:51:54: [basecommands.smx] "Fly ^v^<22><STEAM_1:1:192015750><>" executed config (file "sourcemod/sm_warmode_on.cfg")
+L 08/20/2019 - 19:52:26: [basecommands.smx] "Fly ^v^<22><STEAM_1:1:192015750><>" console command (cmdline "mp_restargame 1")
+L 08/20/2019 - 19:52:55: [basecommands.smx] "Fly ^v^<22><STEAM_1:1:192015750><>" console command (cmdline "forcestart")
+L 08/20/2019 - 19:53:20: [basecommands.smx] "Fly ^v^<22><STEAM_1:1:192015750><>" console command (cmdline "/knife")
+L 08/20/2019 - 19:53:23: [basecommands.smx] "Fly ^v^<22><STEAM_1:1:192015750><>" console command (cmdline "knife")
+L 08/20/2019 - 20:20:04: -------- Mapchange to de_dust2 --------
+L 08/20/2019 - 20:23:17: [basecommands.smx] "Fly ^v^<32><STEAM_1:1:192015750><>" executed config (file "sourcemod/sm_warmode_on.cfg")
+L 08/20/2019 - 20:23:50: [basecommands.smx] "Fly ^v^<32><STEAM_1:1:192015750><>" executed config (file "sourcemod/sm_warmode_on.cfg")

@@ -1,0 +1,177 @@
+L 08/31/2019 - 10:20:32: SourceMod error session started
+L 08/31/2019 - 10:20:32: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 10:20:32: [SM] Exception reported: [SA3] 'EN' translation missing in message "1"
+L 08/31/2019 - 10:20:32: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 10:20:32: [SM] Call stack trace:
+L 08/31/2019 - 10:20:32: [SM]   [0] SetFailState
+L 08/31/2019 - 10:20:32: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 10:20:32: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 10:20:32: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 10:20:32: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 10:21:06: Error log file session closed.
+L 08/31/2019 - 10:21:08: SourceMod error session started
+L 08/31/2019 - 10:21:08: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 10:21:08: [SM] Exception reported: [SA3] 'EN' translation missing in message "1"
+L 08/31/2019 - 10:21:08: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 10:21:08: [SM] Call stack trace:
+L 08/31/2019 - 10:21:08: [SM]   [0] SetFailState
+L 08/31/2019 - 10:21:08: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 10:21:08: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 10:21:08: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 10:21:08: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 10:21:48: SourceMod error session started
+L 08/31/2019 - 10:21:48: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 10:21:48: [SM] Exception reported: [SA3] 'EN' translation missing in message "1"
+L 08/31/2019 - 10:21:48: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 10:21:48: [SM] Call stack trace:
+L 08/31/2019 - 10:21:48: [SM]   [0] SetFailState
+L 08/31/2019 - 10:21:48: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 10:21:48: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 10:21:48: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 10:21:48: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 10:22:16: Error log file session closed.
+L 08/31/2019 - 10:22:18: SourceMod error session started
+L 08/31/2019 - 10:22:18: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 10:22:18: [SM] Exception reported: [SA3] 'EN' translation missing in message "1"
+L 08/31/2019 - 10:22:18: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 10:22:18: [SM] Call stack trace:
+L 08/31/2019 - 10:22:18: [SM]   [0] SetFailState
+L 08/31/2019 - 10:22:18: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 10:22:18: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 10:22:18: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 10:22:18: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 10:28:21: SourceMod error session started
+L 08/31/2019 - 10:28:21: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 10:28:21: [SM] Exception reported: [SA3] 'EN' translation missing in message "1"
+L 08/31/2019 - 10:28:21: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 10:28:21: [SM] Call stack trace:
+L 08/31/2019 - 10:28:21: [SM]   [0] SetFailState
+L 08/31/2019 - 10:28:21: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 10:28:21: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 10:28:21: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 10:28:21: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 10:42:06: SourceMod error session started
+L 08/31/2019 - 10:42:06: Info (map "cs_assault") (file "errors_20190831.log")
+L 08/31/2019 - 10:42:06: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 08/31/2019 - 10:58:19: Error log file session closed.
+L 08/31/2019 - 11:23:42: SourceMod error session started
+L 08/31/2019 - 11:23:42: Info (map "de_bank") (file "errors_20190831.log")
+L 08/31/2019 - 11:23:42: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 08/31/2019 - 11:24:17: Error log file session closed.
+L 08/31/2019 - 11:53:56: SourceMod error session started
+L 08/31/2019 - 11:53:56: Info (map "de_train") (file "errors_20190831.log")
+L 08/31/2019 - 11:53:56: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 08/31/2019 - 11:54:24: Error log file session closed.
+L 08/31/2019 - 15:31:32: SourceMod error session started
+L 08/31/2019 - 15:31:32: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 15:31:32: [SM] Exception reported: [SA3] 'CZ' translation missing in message "1"
+L 08/31/2019 - 15:31:32: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 15:31:32: [SM] Call stack trace:
+L 08/31/2019 - 15:31:32: [SM]   [0] SetFailState
+L 08/31/2019 - 15:31:32: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 15:31:32: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 15:31:32: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 15:31:32: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 15:32:14: Error log file session closed.
+L 08/31/2019 - 15:32:16: SourceMod error session started
+L 08/31/2019 - 15:32:16: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 15:32:16: [SM] Exception reported: [SA3] 'CZ' translation missing in message "1"
+L 08/31/2019 - 15:32:16: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 15:32:16: [SM] Call stack trace:
+L 08/31/2019 - 15:32:16: [SM]   [0] SetFailState
+L 08/31/2019 - 15:32:16: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 15:32:16: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 15:32:16: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 15:32:16: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 15:32:56: Error log file session closed.
+L 08/31/2019 - 15:32:58: SourceMod error session started
+L 08/31/2019 - 15:32:58: Info (map "ar_baggage") (file "errors_20190831.log")
+L 08/31/2019 - 15:32:58: [SM] Exception reported: [SA3] 'CZ' translation missing in message "1"
+L 08/31/2019 - 15:32:58: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 15:32:58: [SM] Call stack trace:
+L 08/31/2019 - 15:32:58: [SM]   [0] SetFailState
+L 08/31/2019 - 15:32:58: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 15:32:58: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 15:32:58: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 15:32:58: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 15:40:05: SourceMod error session started
+L 08/31/2019 - 15:40:05: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 15:40:05: [SM] Exception reported: [SA3] 'CZ' translation missing in message "1"
+L 08/31/2019 - 15:40:05: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 15:40:05: [SM] Call stack trace:
+L 08/31/2019 - 15:40:05: [SM]   [0] SetFailState
+L 08/31/2019 - 15:40:05: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 15:40:05: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 15:40:05: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 15:40:05: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 15:40:20: Error log file session closed.
+L 08/31/2019 - 15:40:21: SourceMod error session started
+L 08/31/2019 - 15:40:21: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 15:40:21: [SM] Exception reported: [SA3] 'CZ' translation missing in message "1"
+L 08/31/2019 - 15:40:21: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 15:40:21: [SM] Call stack trace:
+L 08/31/2019 - 15:40:21: [SM]   [0] SetFailState
+L 08/31/2019 - 15:40:21: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 15:40:21: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 15:40:21: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 15:40:21: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 15:42:06: SourceMod error session started
+L 08/31/2019 - 15:42:06: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 15:42:06: [SM] Exception reported: [SA3] 'CZ' translation missing in message "1"
+L 08/31/2019 - 15:42:06: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 15:42:06: [SM] Call stack trace:
+L 08/31/2019 - 15:42:06: [SM]   [0] SetFailState
+L 08/31/2019 - 15:42:06: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 15:42:06: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 15:42:06: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 15:42:06: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 15:42:10: Error log file session closed.
+L 08/31/2019 - 15:42:12: SourceMod error session started
+L 08/31/2019 - 15:42:12: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 15:42:12: [SM] Exception reported: [SA3] 'CZ' translation missing in message "1"
+L 08/31/2019 - 15:42:12: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 15:42:12: [SM] Call stack trace:
+L 08/31/2019 - 15:42:12: [SM]   [0] SetFailState
+L 08/31/2019 - 15:42:12: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 15:42:12: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 15:42:12: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 15:42:12: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 15:46:18: SourceMod error session started
+L 08/31/2019 - 15:46:18: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 15:46:18: [SM] Exception reported: [SA3] 'CZ' translation missing in message "1"
+L 08/31/2019 - 15:46:18: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 15:46:18: [SM] Call stack trace:
+L 08/31/2019 - 15:46:18: [SM]   [0] SetFailState
+L 08/31/2019 - 15:46:18: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 15:46:18: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 15:46:18: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 15:46:18: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 15:46:55: SourceMod error session started
+L 08/31/2019 - 15:46:55: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 15:46:55: [SM] Exception reported: [SA3] 'CZ' translation missing in message "1"
+L 08/31/2019 - 15:46:55: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 15:46:55: [SM] Call stack trace:
+L 08/31/2019 - 15:46:55: [SM]   [0] SetFailState
+L 08/31/2019 - 15:46:55: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 15:46:55: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 15:46:55: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 15:46:55: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 15:47:01: Error log file session closed.
+L 08/31/2019 - 15:47:03: SourceMod error session started
+L 08/31/2019 - 15:47:03: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 15:47:03: [SM] Exception reported: [SA3] 'CZ' translation missing in message "1"
+L 08/31/2019 - 15:47:03: [SM] Blaming: ServerAdvertisements3.smx
+L 08/31/2019 - 15:47:03: [SM] Call stack trace:
+L 08/31/2019 - 15:47:03: [SM]   [0] SetFailState
+L 08/31/2019 - 15:47:03: [SM]   [1] Line 55, D:\Sourcemod\ServerAdvertisements3\files/misc.sp::AddMessagesToArray
+L 08/31/2019 - 15:47:03: [SM]   [2] Line 451, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadMessages
+L 08/31/2019 - 15:47:03: [SM]   [3] Line 366, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::LoadConfig
+L 08/31/2019 - 15:47:03: [SM]   [4] Line 59, D:\Sourcemod\ServerAdvertisements3\ServerAdvertisements3.sp::OnMapStart
+L 08/31/2019 - 20:13:56: SourceMod error session started
+L 08/31/2019 - 20:13:56: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 20:13:56: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 08/31/2019 - 20:14:34: Error log file session closed.
+L 08/31/2019 - 21:00:30: SourceMod error session started
+L 08/31/2019 - 21:00:30: Info (map "de_mirage") (file "errors_20190831.log")
+L 08/31/2019 - 21:00:30: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 08/31/2019 - 21:00:57: Error log file session closed.

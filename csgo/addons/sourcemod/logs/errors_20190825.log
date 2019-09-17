@@ -1,0 +1,7 @@
+L 08/25/2019 - 09:26:42: SourceMod error session started
+L 08/25/2019 - 09:26:42: Info (map "de_dust2") (file "errors_20190825.log")
+L 08/25/2019 - 09:26:42: [SM] Unable to load plugin "SWGM.smx": Native "SteamWorks_GetUserGroupStatusAuthID" was not found
+L 08/25/2019 - 09:26:42: [SM] Unable to load plugin "SWGM_Command_Listener.smx": Could not find required plugin "SWGM"
+L 08/25/2019 - 09:26:42: [SM] Unable to load plugin "swgm/SWGM_Command_Listener.smx": Could not find required plugin "SWGM"
+L 08/25/2019 - 09:26:42: [SM] Unable to load plugin "SWGM_Admin.smx": Could not find required plugin "SWGM"
+L 08/25/2019 - 09:30:14: Error log file session closed.
